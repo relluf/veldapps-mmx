@@ -1,0 +1,19 @@
+{
+  "name": "veldapps-mmx",
+  "version": "1.0.0",
+  "description": "Client for Veldapps' Cavalion MMX server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/relluf/veldapps-mmx.git"
+  },
+  "author": "relluf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/relluf/veldapps-mmx/issues"
+  },
+  "homepage": "https://github.com/relluf/veldapps-mmx#readme"
+}
